@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-23T09:35:37 IST" name="Suite" finished-at="2024-08-23T09:36:11 IST" duration-ms="33285">
+    <groups>
+    </groups>
+    <test started-at="2024-08-23T09:35:37 IST" name="Test" finished-at="2024-08-23T09:36:11 IST" duration-ms="33285">
+      <class name="com.runner.SwagRunner">
+        <test-method is-config="true" signature="extendStartUp()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:37 IST" name="extendStartUp" finished-at="2024-08-23T09:35:37 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extendStartUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:37 IST" name="setUp" finished-at="2024-08-23T09:35:40 IST" duration-ms="2264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidUsernameValidPassword()[pri:1, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:40 IST" name="invalidUsernameValidPassword" finished-at="2024-08-23T09:35:40 IST" duration-ms="816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUsernameValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:41 IST" name="tearDown" finished-at="2024-08-23T09:35:41 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:41 IST" name="setUp" finished-at="2024-08-23T09:35:42 IST" duration-ms="954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="emptyCredential()[pri:2, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:42 IST" name="emptyCredential" finished-at="2024-08-23T09:35:42 IST" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyCredential -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:42 IST" name="tearDown" finished-at="2024-08-23T09:35:42 IST" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:42 IST" name="setUp" finished-at="2024-08-23T09:35:43 IST" duration-ms="937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validUserEmptyPassword()[pri:3, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:43 IST" name="validUserEmptyPassword" finished-at="2024-08-23T09:35:44 IST" duration-ms="728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserEmptyPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:44 IST" name="tearDown" finished-at="2024-08-23T09:35:44 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:44 IST" name="setUp" finished-at="2024-08-23T09:35:45 IST" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLogin()[pri:4, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:45 IST" name="validLogin" finished-at="2024-08-23T09:35:46 IST" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:46 IST" name="tearDown" finished-at="2024-08-23T09:35:47 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:47 IST" name="setUp" finished-at="2024-08-23T09:35:48 IST" duration-ms="1022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="order1Placed()[pri:5, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:48 IST" name="order1Placed" finished-at="2024-08-23T09:35:49 IST" duration-ms="1245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order1Placed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:49 IST" name="tearDown" finished-at="2024-08-23T09:35:49 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:49 IST" name="setUp" finished-at="2024-08-23T09:35:50 IST" duration-ms="985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="order2Placed()[pri:6, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:50 IST" name="order2Placed" finished-at="2024-08-23T09:35:51 IST" duration-ms="1173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order2Placed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:51 IST" name="tearDown" finished-at="2024-08-23T09:35:51 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:51 IST" name="setUp" finished-at="2024-08-23T09:35:52 IST" duration-ms="1030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="order3Placed()[pri:7, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:35:52 IST" name="order3Placed" finished-at="2024-08-23T09:36:03 IST" duration-ms="10609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order3Placed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:36:03 IST" name="tearDown" finished-at="2024-08-23T09:36:04 IST" duration-ms="1157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:36:04 IST" name="setUp" finished-at="2024-08-23T09:36:05 IST" duration-ms="974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="order4Placed()[pri:8, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:36:05 IST" name="order4Placed" finished-at="2024-08-23T09:36:07 IST" duration-ms="1531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order4Placed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:36:07 IST" name="tearDown" finished-at="2024-08-23T09:36:07 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:36:07 IST" name="setUp" finished-at="2024-08-23T09:36:08 IST" duration-ms="1030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="order5Placed()[pri:9, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:36:08 IST" name="order5Placed" finished-at="2024-08-23T09:36:10 IST" duration-ms="2123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order5Placed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:36:10 IST" name="tearDown" finished-at="2024-08-23T09:36:11 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="extendReportEnd()[pri:0, instance:com.runner.SwagRunner@35645047]" started-at="2024-08-23T09:36:11 IST" name="extendReportEnd" finished-at="2024-08-23T09:36:11 IST" duration-ms="586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extendReportEnd -->
+      </class> <!-- com.runner.SwagRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

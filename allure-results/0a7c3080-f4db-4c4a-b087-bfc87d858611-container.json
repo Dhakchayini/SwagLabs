@@ -1,0 +1,1 @@
+{"uuid":"0a7c3080-f4db-4c4a-b087-bfc87d858611","name":"com.runner.SwagRunner.setUp","children":["fe2bf4a8-e984-410e-a180-b41c33d1ea46"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1724347986986,"stop":1724347987924}],"afters":[],"start":1724347986986,"stop":1724347987924}
